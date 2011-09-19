@@ -16,8 +16,6 @@ statistics software:
 
 * booklet on using R for bioinformatics (under development): `http://a-little-book-of-r-for-bioinformatics.readthedocs.org/ <http://a-little-book-of-r-for-bioinformatics.readthedocs.org>`_
 
-Contents:
-
 .. toctree::
    :maxdepth: 0
 
