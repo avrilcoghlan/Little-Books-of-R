@@ -10,8 +10,7 @@ statistics software:
 
 * booklet on using R for biomedical statistics: `http://a-little-book-of-r-for-biomedical-statistics.readthedocs.org/ <http://a-little-book-of-r-for-biomedical-statistics.readthedocs.org>`_
 
-* booklet on using R for time series analysis: `http://a-little-book-of-r-for-time-series.readthedocs.org/
-<http://a-little-book-of-r-for-time-series.readthedocs.org/>`_
+* booklet on using R for time series analysis: `http://a-little-book-of-r-for-time-series.readthedocs.org/ <http://a-little-book-of-r-for-time-series.readthedocs.org/>`_
 
 * booklet on using R for multivariate analysis: `http://little-book-of-r-for-multivariate-analysis.readthedocs.org/ <http://little-book-of-r-for-multivariate-analysis.readthedocs.org/>`_
 
